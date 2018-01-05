@@ -1,1 +1,3 @@
-# PearlBitcoin-windows-wallet
+# PearlBitcoin windows wallet
+
+One click setup.
